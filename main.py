@@ -27,7 +27,7 @@ nottrue=False
 while not nottrue:
     print("最高16进制，再多没写")
     print("使用完毕，直接关闭窗口就可以")
-    print("有问题请与1983718你懂的联系")
+    print("")
     print("\n")
     num_type = input("请输入源数值进制：")
     num = input( "请输入源数值u：")
